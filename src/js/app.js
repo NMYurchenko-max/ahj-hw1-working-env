@@ -28,4 +28,4 @@ const elClass = new Example(root);
 
 setTimeout(() => {
   elClass.change("I study the working environment with manager-package 'yarn'");
-}, 8000);
+}, 6000);

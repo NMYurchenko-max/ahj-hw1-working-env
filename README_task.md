@@ -192,7 +192,7 @@ yarn start
 ```bash
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Inition commit"
 git remote add origin https://github.com/NMYurchenko-max/ahj-hw1-working-env.git
-git push -u origin main
+git push -u origin master
 ```
